@@ -25,4 +25,4 @@
 
 ## reset de meyer
 
-<https://meyerweb.com/eric/tools/css/reset/>
+[lien reset de meyer](https://meyerweb.com/eric/tools/css/reset/)
