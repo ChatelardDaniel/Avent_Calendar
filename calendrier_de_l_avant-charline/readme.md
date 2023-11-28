@@ -16,7 +16,8 @@
 14. utiliser un '@use"./page/_calendar"' dans 'main.sass' pour relier le fichier '_calendar.sass'
 15. créer un dossier 'components' dans le dossier 'sass', puis un fichier '_advent.sass' pour créer une grille.
 16. Ajout d'une boucle en sass pour les images
-
+17. créer un bouton dans le fichier 'index.html' et le styliser
+18. créer un dossier 'abstract' dans le dossier 'sass', puis créer un fichier '_mixins.sass' pour faire une mixin (genre de fonction)
 
 ## copie du setting
 

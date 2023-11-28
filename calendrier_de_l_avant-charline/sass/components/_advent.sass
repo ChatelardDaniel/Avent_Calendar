@@ -1,3 +1,6 @@
+@use "../abstracts/_mixins" as mixins 
+// import de la fonction dans le mixins
+
 .advent
     background-color: white
     height: 100vh // vh = viewport height
@@ -7,6 +10,9 @@
     gap: 1rem
 
     &_box
+        // inclure la mixin
+        @include @include mixins.flex-center()
+        
         // boucle en sass
         @for $i from 1 through 24
             &:nth-child(#{$i})
@@ -14,3 +20,10 @@
                 background-repeat: no-repeat
                 background-position: center
                 background-size: contain
+    &_number
+        // inclure la mixin
+        @include @include mixins.flex-center()
+        background-color: lightgreen
+        height: 100%
+        aspect-ratio: 1/1 // faire un carré avec le ratio de 1 sur 1
+        border-radius: 50% 50% 0 0
