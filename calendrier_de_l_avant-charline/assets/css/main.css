@@ -47,6 +47,12 @@ ul {
   box-sizing: border-box;
 }
 
+button {
+  background-color: transparent;
+  border-width: 0;
+  appearance: none;
+}
+
 .calendar {
   background-color: #44faf4;
 }
