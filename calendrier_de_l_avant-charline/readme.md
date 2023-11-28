@@ -11,6 +11,10 @@
 9. créer un reset avec meyer dans le dossier 'base'
 10. créer un reset custom personnel dans le dossier 'base'
 11. importer les fichiers '_reset' dans main.sass
+12. créer un dossier 'page' dans le dossier 'sass', puis créer un fichier '_calendar.sass' dans le dossier 'page' pour mettre un fond sur ma page.
+13. mettre une class="calendar sur la balise 'body' du fichier 'index.html'
+14. utiliser un '@use"./page/_calendar"' dans 'main.sass' pour relier le fichier '_calendar.sass'
+
 
 ## copie du setting
 
