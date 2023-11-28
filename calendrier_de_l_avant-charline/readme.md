@@ -9,6 +9,8 @@
 7. créer un fichier 'main.sass' dans le dossier 'sass.
 8. lancer watch.
 9. créer un reset avec meyer dans le dossier 'base'
+10. créer un reset custom personnel dans le dossier 'base'
+11. importer les fichiers '_reset' dans main.sass
 
 ## copie du setting
 
