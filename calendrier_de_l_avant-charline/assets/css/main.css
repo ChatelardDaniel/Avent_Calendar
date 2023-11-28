@@ -58,12 +58,16 @@ button {
 }
 
 .advent {
-  background-color: white;
   height: 100vh;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   grid-template-rows: auto;
   gap: 1rem;
+}
+.advent_box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .advent_box:nth-child(1) {
   background-image: url("../images/image-1.svg");
@@ -210,6 +214,9 @@ button {
   background-size: contain;
 }
 .advent_number {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background-color: lightgreen;
   height: 100%;
   aspect-ratio: 1/1;

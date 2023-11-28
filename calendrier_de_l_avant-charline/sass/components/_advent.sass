@@ -2,7 +2,6 @@
 // import de la fonction dans le mixins
 
 .advent
-    background-color: white
     height: 100vh // vh = viewport height
     display: grid
     grid-template-columns: repeat(5, 1fr)
@@ -11,7 +10,7 @@
 
     &_box
         // inclure la mixin
-        @include @include mixins.flex-center()
+        @include mixins.flex-center()
         
         // boucle en sass
         @for $i from 1 through 24
@@ -22,7 +21,7 @@
                 background-size: contain
     &_number
         // inclure la mixin
-        @include @include mixins.flex-center()
+        @include mixins.flex-center()
         background-color: lightgreen
         height: 100%
         aspect-ratio: 1/1 // faire un carré avec le ratio de 1 sur 1
