@@ -8,6 +8,7 @@
 6. créer un dossier 'sass'.
 7. créer un fichier 'main.sass' dans le dossier 'sass.
 8. lancer watch.
+9. créer un reset avec meyer dans le dossier 'base'
 
 ## copie du setting
 
