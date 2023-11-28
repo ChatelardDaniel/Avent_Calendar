@@ -1,6 +1,6 @@
 # Calendrier de l'avent
 
-1. créer la page index.html
+1. créer le fichier index.html
 2. mettre en place sass,voir la vidéo de charline 'sass pratique 1 sur 5' installer l'extension: live sass compiler de glenn Marks.
 3. puis intaller l'extension Sass(.sass only) de Syler, pour la coloration.
 4. allez dans L'extension 'Live Sass Compiler', puis cliquez sur la roue crantée, ensuite sur 'paramètres extension'.
