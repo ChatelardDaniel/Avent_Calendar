@@ -11,7 +11,7 @@
 
 ## copie du setting
 
-`json
+```json
 "liveSassCompile.settings.autoprefix": [],
 "liveSassCompile.settings.formats": [
   {
@@ -21,7 +21,7 @@
     "savePathReplacementPairs": null
   }
 ]
-`
+```
 
 ## reset de meyer
 
