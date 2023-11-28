@@ -14,6 +14,8 @@
 12. créer un dossier 'page' dans le dossier 'sass', puis créer un fichier '_calendar.sass' dans le dossier 'page' pour mettre un fond sur ma page.
 13. mettre une class="calendar sur la balise 'body' du fichier 'index.html'
 14. utiliser un '@use"./page/_calendar"' dans 'main.sass' pour relier le fichier '_calendar.sass'
+15. créer un dossier 'components' dans le dossier 'sass', puis un fichier '_advent.sass' pour créer une grille.
+16. Ajout d'une boucle en sass pour les images
 
 
 ## copie du setting
